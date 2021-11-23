@@ -424,7 +424,6 @@ void task()
 		cout << "Minimized h" << i + 1 << "(SDNF) = " << SDNF_vector_pair_output(minimized_functions[i]) << endl;
 	}
 }
-
 bool Test1()
 {
 	vector<vector<bool>> sdnfprotatype{ {0,0,0,0}, {0,0,1,0}, {0,1,0,0}, {0,1,1,0}, {1,0,0,0}, {1,0,1,0}, {1,1,0,0}, {1,1,1,0} };

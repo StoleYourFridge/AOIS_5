@@ -34,7 +34,6 @@ vector<bool> summary_for_final_constituent(vector<bool> term, bool v);
 vector<vector<bool>> from_line_to_sdnf(vector<bool>& h_trigers_line, vector<vector<bool>>& data);
 
 void task();
-
 bool Test1();
 bool Test2();
 bool Test3();
